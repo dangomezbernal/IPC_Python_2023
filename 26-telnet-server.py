@@ -40,4 +40,4 @@ while True:
     conn.close()
       
 
-# conn.sendall es para asegurarse de que envia el flujo de info (tirar de la cadena DESPUES DE CAGAR SUPER FUERTE MIERDA MIERDOSA DIARREICA POR EL ABASCESO PERIANAL)
+# conn.sendall es para asegurarse de que envia el flujo de info
